@@ -8,25 +8,39 @@
 
 ## 🚀 About Me
 
-```python
-class VaibhavKatiyar:
-    def __init__(self):
-        self.username = "Vaibhav Katiyar"
-        self.code = ["Python", "Java", "JavaScript", "C++"]
-        self.technologies = {
-            "frontend": ["HTML", "CSS", "JavaScript", "React"],
-            "backend": ["Django", "Node.js", "Express"],
-            "database": ["MySQL", "MongoDB", "PostgreSQL"],
-            "tools": ["Git", "Docker", "VS Code", "Linux"]
-        }
-        self.current_focus = "Full Stack Web Development"
-        self.fun_fact = "I debug with print statements and I'm not ashamed!"
+```java
+public class VaibhavKatiyar {
+    private String name;
+    private String[] programmingLanguages;
+    private Map<String, String[]> technologies;
+    private String currentFocus;
+    private String funFact;
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
-
-me = VaibhavKatiyar()
-me.say_hi()
+    public VaibhavKatiyar() {
+        this.name = "Vaibhav Katiyar";
+        this.programmingLanguages = {"Java", "Python", "JavaScript", "C++"};
+        
+        this.technologies = new HashMap<>();
+        technologies.put("frontend", new String[]{"HTML", "CSS", "JavaScript", "React"});
+        technologies.put("backend", new String[]{"Spring Boot", "Django", "Node.js"});
+        technologies.put("database", new String[]{"MySQL", "MongoDB", "PostgreSQL"});
+        technologies.put("tools", new String[]{"Git", "IntelliJ IDEA", "VS Code", "Linux"});
+        
+        this.currentFocus = "Full Stack Web Development";
+        this.funFact = "I can debug Java stack traces faster than I can solve a Rubik's cube!";
+    }
+    
+    public void sayHello() {
+        System.out.println("Hey there! 👋");
+        System.out.println("Thanks for visiting my profile!");
+        System.out.println("Let's connect and build something amazing together! ☕");
+    }
+    
+    public static void main(String[] args) {
+        VaibhavKatiyar developer = new VaibhavKatiyar();
+        developer.sayHello();
+    }
+}
 ```
 
 ---
@@ -66,12 +80,18 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatiyar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatiyar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20-%2069%20Total%20Contributions"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkatiyar&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatiyar&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  
+**🎯 Total Contributions: 69** | **📈 Repositories: 12** | **⭐ Stars Earned: 25**
+
 </div>
 
 ---
@@ -141,34 +161,10 @@ graph TD
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
-</div>
-
----
-
-<div align="center">
-  
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/vaibhavkatiyar/vaibhavkatiyar/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhavkatiyar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **💙 If you like my work, consider giving it a ⭐!**
   
   *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-</div>
-
----
-
-<div align="center">
-  <h3>⚡ Fun Fact</h3>
-  <p><em>I can solve a Rubik's cube faster than I can fix a CSS alignment issue! 🎲</em></p>
 </div>
