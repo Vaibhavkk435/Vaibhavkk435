@@ -1,4 +1,4 @@
-                # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Vaibhav Katiyar
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />       Hey there! I'm Vaibhav Katiyar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
